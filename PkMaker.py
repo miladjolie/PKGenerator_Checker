@@ -3,7 +3,6 @@
 import secrets
 import json
 import codecs
-import ecdsa
 import hashlib
 import base58
 import requests
